@@ -10,7 +10,8 @@ export class User{
   gender!: string;
   requireTrainer!: string;
   package!: string;
-  important!: string[];
+  focus!: string[];
   enquiryDate!: string;
   id!: number;
+  haveGymBefore!: string;
 }

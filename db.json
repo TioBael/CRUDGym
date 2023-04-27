@@ -15,50 +15,9 @@
       "focus": [
         "Sugar craving body"
       ],
-      "haveGymBefore": "Yes",
+      "haveGymBefore": "No",
       "enquiryDate": "2023-04-26T03:00:00.000Z",
       "id": 1
-    },
-    {
-      "firstName": "Luis",
-      "lastName": "Moreira da Costa",
-      "email": "teste@teste.com",
-      "mobile": "2199994444",
-      "weight": 105,
-      "height": 182,
-      "bmi": 35,
-      "bmiResult": "Severely obese",
-      "gender": "Male",
-      "requireTrainer": "Yes",
-      "package": "Monthly",
-      "focus": [
-        "Toxic fat reduction"
-      ],
-      "haveGymBefore": "Yes",
-      "enquiryDate": "2023-04-26T03:00:00.000Z",
-      "id": 2
-    },
-    {
-      "firstName": "Luis",
-      "lastName": "Moreira da Costa",
-      "email": "teste@gmail.com",
-      "mobile": "2199994444",
-      "weight": 105,
-      "height": 182,
-      "bmi": 35,
-      "bmiResult": "Severely obese",
-      "gender": "Male",
-      "requireTrainer": "Yes",
-      "package": "Monthly",
-      "focus": [
-        "Toxic fat reduction",
-        "Energy and endurance",
-        "Building lean muscle",
-        "Healthier digestive system"
-      ],
-      "haveGymBefore": "Yes",
-      "enquiryDate": "2023-04-26T03:00:00.000Z",
-      "id": 3
     }
   ]
 }
